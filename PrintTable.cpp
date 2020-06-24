@@ -148,7 +148,7 @@ void test3(){
 	head.push_back("c4");
 	fields.push_back("1,row1-2,c3,col1-4");
 	fields.push_back("1,row2-3,c4");
-	fields.push_back("1,row3-2,c3,row3-4,row3-5");
+	fields.push_back("1,row3-2,c333,row3-4,row3-5");
 	fields.push_back("1,row4-2,43,row4-4");
 	fields.push_back("5");
 	PrintTable(head, fields, ',');
